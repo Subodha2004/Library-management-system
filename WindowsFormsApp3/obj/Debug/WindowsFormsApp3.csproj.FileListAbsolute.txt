@@ -1,0 +1,31 @@
+C:\Users\DELL\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\DELL\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\DELL\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\DELL\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\DELL\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\DELL\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\DELL\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\kumal\OneDrive\Desktop\SarasaviBookShop\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\kumal\OneDrive\Desktop\SarasaviBookShop\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\kumal\OneDrive\Desktop\SarasaviBookShop\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\kumal\OneDrive\Desktop\SarasaviBookShop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\kumal\OneDrive\Desktop\SarasaviBookShop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe.config
+C:\Users\kumal\OneDrive\Desktop\SarasaviBookShop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\kumal\OneDrive\Desktop\SarasaviBookShop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\kumal\OneDrive\Desktop\SarasaviBookShop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\kumal\OneDrive\Desktop\SarasaviBookShop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\kumal\OneDrive\Desktop\SarasaviBookShop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\kumal\OneDrive\Desktop\SarasaviBookShop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Dip final assignment\Final_SarasaviBookShop\SarasaviBookShop\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Dip final assignment\Final_SarasaviBookShop\SarasaviBookShop\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Dip final assignment\Final_SarasaviBookShop\SarasaviBookShop\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Dip final assignment\Final_SarasaviBookShop\SarasaviBookShop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Dip final assignment\Final_SarasaviBookShop\SarasaviBookShop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Dip final assignment\Final_SarasaviBookShop\SarasaviBookShop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Dip final assignment\Final_SarasaviBookShop\SarasaviBookShop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Dip final assignment\Final_SarasaviBookShop\SarasaviBookShop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Dip final assignment\Final_SarasaviBookShop\SarasaviBookShop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Dip final assignment\Final_SarasaviBookShop\SarasaviBookShop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
